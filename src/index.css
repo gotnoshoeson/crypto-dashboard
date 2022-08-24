@@ -11,3 +11,57 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.news-feed {
+  background-color: lightgrey;
+  padding: 10px;
+  margin: 5px;
+  max-width: 300px;
+}
+
+.currency-converter {
+  background-color: lightgrey;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.app-wrapper {
+  display: flex;
+}
+
+.exchange-rate {
+  background-color: whitesmoke;
+  padding: 20px;
+  margin-top: 10px;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.25);
+}
+
+.input-box {
+  background-color: whitesmoke;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.25);
+}
+
+
+button {
+  border: none;
+  float: right;
+  margin: 2px;
+}
+
+.convert-button {
+  background-color: white;
+}
+
+input, select {
+  border: none;
+}
