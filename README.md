@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Checkout the build
 
 The project was published with Surge.sh
-[Crypto Dashboard](literate-wilderness.surge.sh)
+[Crypto Dashboard](https://literate-wilderness.surge.sh)
 
 # API info
 
